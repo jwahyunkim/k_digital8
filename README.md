@@ -5,7 +5,7 @@
 + pnu40233	김예진 : 
 + pnu40234	김은희 : 
 + pnu40235	김좌현 : 
-+ pnu40236	김준영 : 
++ pnu40236	김준영 : [https://github.com/zeromile-000/](https://github.com/zeromile-000)
 + pnu40252	김준우 : 
 + pnu40250	김혜민 : 
 + pnu40237	류승진 : 
