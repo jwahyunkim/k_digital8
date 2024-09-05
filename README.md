@@ -9,7 +9,7 @@
 + pnu40252	김준우 : 
 + pnu40250	김혜민 : 
 + pnu40237	류승진 : 
-+ pnu40238	박래찬 : 
++ pnu40238	박래찬 : https://chani1352.github.io/k8_html/
 + pnu40239	백진 : 
 + pnu40240	송소정 : 
 + pnu40241	오시경 : 
