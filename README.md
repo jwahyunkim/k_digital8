@@ -4,7 +4,7 @@
 + pnu40231	김민재 : 
 + pnu40233	김예진 : 
 + pnu40234	김은희 : 
-+ pnu40235	김좌현 : 
++ pnu40235	김좌현 :  https://github.com/jwahyunkim
 + pnu40236	김준영 : 
 + pnu40252	김준우 : 
 + pnu40250	김혜민 : 
