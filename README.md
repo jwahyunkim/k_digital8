@@ -6,7 +6,7 @@
  
 + pnu40233	김예진 : 
 + pnu40234	김은희 : https://github.com/zladmsgml/html
-+ pnu40235	김좌현 : https://github.com/jwahyunkim
++ pnu40235	김좌현 : 
 + pnu40236	김준영 : https://github.com/zeromile-000
 + pnu40252	김준우 : https://github.com/KIKJUNW00
 + pnu40250	김혜민 : https://github.com/hyeminyy  
